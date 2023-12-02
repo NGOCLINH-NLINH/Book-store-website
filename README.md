@@ -1,2 +1,2 @@
 # Book-store-website
-Database project
+Database project with HTML, JS, CSS, PHP, MySQL
